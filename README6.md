@@ -38,17 +38,6 @@
 
 > *“I automate boring stuff, one script at a time 🛠️”*
 
-<br>
-<h3 align="left">Social:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kshitijgehlot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijgehlot" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kshitijgehlot10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitijgehlot" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kdgehlot2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kdgehlot2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kdgehlot2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kdgehlot2003" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kshitij.gehlot" height="30" width="40" /></a> -->
-<!-- <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kshitij gehlot" height="30" width="40" /></a> -->
-</p>
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -101,6 +90,15 @@
 
 <br/>
 
+### Profile Trophies
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=G-Sudarshan)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+ 
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TheSwordBreaker&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/TheSwordBreaker)
+
+
+  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
@@ -129,17 +127,4 @@
  </div>
  <br><br> -->
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-![KDGehlot2003's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KDGehlot2003&custom_title=Kshitij's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="">Kshiti Gehlot</a></p>
+<p align="right" > Created with 🧡 by <a href="">Antonio Lee</a></p>
