@@ -30,7 +30,7 @@
 <br><br>
 
 - 🌱 I’m currently diving deeper into **LangChain**, **GenAI**, **RAG**, and **DevOps**
-- 💬 Ask me about **Python, Machine Learning, MERN Stack**
+- 💬 Ask me about **Python, Machine Learning, MERN Stack, AI**
 - 📫 Reach me at **antoniolee1101@gmail.com**
 - ⚡ Fun fact: **I’m probably debugging in my dreams too**
 
